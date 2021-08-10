@@ -1,4 +1,129 @@
 
+
+
+
 .blok1{
-    color: darkviolet;
+    display: inline-block;
+    color: rgb(113, 210, 255);
+    margin-bottom: 100px;
+    margin-top: 30px;
+    font-size: large;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 450px; 
+    font-family: 'Rajdhani', sans-serif;
+
+  
+
+}
+
+
+.blok2{
+    display: inline-block;
+    font-size: large;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-family: 'Rajdhani', sans-serif;
+
+ 
+
+}
+
+
+.blok3{
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-top: 30px;
+    
+    font-size: large;
+    padding-right: 50px;
+    padding-left: 50px;
+    font-family: 'Rajdhani', sans-serif;
+   
+}
+
+.img1 {
+    display: inline-block;
+    width: 400px ;
+    height: 250px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-left: 300px;
+    margin-top: 50px;
+    
+    
+}
+
+
+.img2 {
+    display: inline-block;
+    width: 400px ;
+    height: 250px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 50px;
+}
+
+.p1{
+    display: inline-block;
+    margin-left:350px;
+    text-decoration: none;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Francois One', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.p{
+    display: inline-block;
+    margin-left: 330px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Francois One', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.f1{
+    display: inline-block;
+    margin-left:350px;
+    font-family: 'Rajdhani', sans-serif;
+    color: grey;
+    
+}
+
+.f2{
+    display: inline-block;
+    margin-left:435px;
+    font-family: 'Rajdhani', sans-serif;
+    color: grey;
+}
+
+.txt1{
+    display: inline-block;
+    margin-left: 350px;
+
+}
+
+.txt2{
+    display: inline-block;
+    margin-left: 130px;
+
+}
+
+
+.p2{
+    display: inline-block;
+    margin-left:350px;
+    
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Francois One', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.p3{
+    display: inline-block;
+    margin-left: 380px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Francois One', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
 }
