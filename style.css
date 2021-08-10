@@ -1,4 +1,8 @@
 
+.bloks{
+    text-align: center;
+
+}
 
 
 
@@ -9,8 +13,7 @@
     margin-top: 30px;
     font-size: large;
     padding-right: 50px;
-    padding-left: 50px;
-    margin-left: 450px; 
+    padding-left: 50px;  
     font-family: 'Rajdhani', sans-serif;
 
   
@@ -44,13 +47,20 @@
    
 }
 
+.images {
+   
+   align-items: center;
+
+}
+
+
 .img1 {
     display: inline-block;
     width: 400px ;
     height: 250px;
     padding-right: 50px;
     padding-left: 50px;
-    margin-left: 300px;
+    
     margin-top: 50px;
     
     
@@ -66,9 +76,14 @@
     margin-top: 50px;
 }
 
+
+.h2{
+    text-align: center;
+}
+
 .p1{
     display: inline-block;
-    margin-left:350px;
+    
     text-decoration: none;
     font-family: 'Fjalla One', sans-serif;
     font-family: 'Francois One', sans-serif;
@@ -83,9 +98,14 @@
     font-family: 'Rajdhani', sans-serif;
 }
 
+
+.allf {
+    text-align: center;
+}
+
 .f1{
     display: inline-block;
-    margin-left:350px;
+    
     font-family: 'Rajdhani', sans-serif;
     color: grey;
     
@@ -98,9 +118,15 @@
     color: grey;
 }
 
+
+
+.txt{
+    text-align: center;
+}
+
 .txt1{
     display: inline-block;
-    margin-left: 350px;
+   
 
 }
 
@@ -113,7 +139,7 @@
 
 .p2{
     display: inline-block;
-    margin-left:350px;
+    
     
     font-family: 'Fjalla One', sans-serif;
     font-family: 'Francois One', sans-serif;
