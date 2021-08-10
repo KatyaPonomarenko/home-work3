@@ -127,3 +127,12 @@
     font-family: 'Francois One', sans-serif;
     font-family: 'Rajdhani', sans-serif;
 }
+
+.end{
+    font-family: 'Rajdhani', sans-serif;
+    border: solid darkgray;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    text-align: center;
+
+}
