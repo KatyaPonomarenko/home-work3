@@ -1,164 +1,63 @@
-
-.bloks{
-    text-align: center;
-
-}
-
-
-
-.blok1{
-    display: inline-block;
-    color: rgb(113, 210, 255);
-    margin-bottom: 100px;
-    margin-top: 30px;
-    font-size: large;
-    padding-right: 50px;
-    padding-left: 50px;  
+.list {
+    margin: auto;
+    margin-top: 100px;
+    list-style: none;
+    width: 800px;
     font-family: 'Rajdhani', sans-serif;
+    font-size: x-large;
+    color: black;
 
+  }
+  
+  .list-item {
+    display: inline-block;
+    margin-left: 100px;
+    text-align: center;
+  }
+
+  .section-main {
+    width: 906px;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Rajdhani', sans-serif;
+  }
+  
+  .news-section {
+    display: inline-block;
+    width: 400px;
+    margin: auto;
+  }
+  
+  .news-section:last-child {
+    margin-left: 50px;
+  }
   
 
-}
-
-
-.blok2{
-    display: inline-block;
-    font-size: large;
-    margin-bottom: 100px;
-    margin-top: 30px;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-family: 'Rajdhani', sans-serif;
-
- 
-
-}
-
-
-.blok3{
-    display: inline-block;
-    margin-bottom: 100px;
-    margin-top: 30px;
-    
-    font-size: large;
-    padding-right: 50px;
-    padding-left: 50px;
-    font-family: 'Rajdhani', sans-serif;
-   
-}
-
-.images {
-   
-   align-items: center;
-
-}
-
-
-.img1 {
-    display: inline-block;
-    width: 400px ;
+  .news-section > img{
+    width: 400px;
     height: 250px;
-    padding-right: 50px;
-    padding-left: 50px;
-    
-    margin-top: 50px;
-    
-    
-}
 
+  }
 
-.img2 {
-    display: inline-block;
-    width: 400px ;
-    height: 250px;
-    padding-right: 50px;
-    padding-left: 50px;
-    margin-top: 50px;
-}
-
-
-.h2{
-    text-align: center;
-}
-
-.p1{
-    display: inline-block;
-    
-    text-decoration: none;
-    font-family: 'Fjalla One', sans-serif;
-    font-family: 'Francois One', sans-serif;
-    font-family: 'Rajdhani', sans-serif;
-}
-
-.p{
-    display: inline-block;
-    margin-left: 330px;
-    font-family: 'Fjalla One', sans-serif;
-    font-family: 'Francois One', sans-serif;
-    font-family: 'Rajdhani', sans-serif;
-}
-
-
-.allf {
-    text-align: center;
-}
-
-.f1{
-    display: inline-block;
-    
-    font-family: 'Rajdhani', sans-serif;
-    color: grey;
-    
-}
-
-.f2{
-    display: inline-block;
-    margin-left:435px;
-    font-family: 'Rajdhani', sans-serif;
-    color: grey;
-}
-
-
-
-.txt{
-    text-align: center;
-}
-
-.txt1{
-    display: inline-block;
-   
-
-}
-
-.txt2{
-    display: inline-block;
-    margin-left: 130px;
-
-}
-
-
-.p2{
-    display: inline-block;
-    
-    
-    font-family: 'Fjalla One', sans-serif;
-    font-family: 'Francois One', sans-serif;
-    font-family: 'Rajdhani', sans-serif;
-}
-
-.p3{
-    display: inline-block;
-    margin-left: 380px;
-    font-family: 'Fjalla One', sans-serif;
-    font-family: 'Francois One', sans-serif;
-    font-family: 'Rajdhani', sans-serif;
-}
-
-.end{
+  .end{
     font-family: 'Rajdhani', sans-serif;
     border: solid darkgray;
+   
+    width: 105px;
+    margin: auto;
     margin-top: 100px;
     margin-bottom: 50px;
-    text-align: center;
 
 }
+
+.end:hover{
+    color: rgb(16, 179, 243);
+    cursor: pointer;
+}
+
+.list-item:hover{
+    color: rgb(16, 179, 243);
+    cursor: pointer;  
+}
+
